@@ -1,0 +1,13 @@
+# CORE DATA PROCESSING AND NUMERICAL COMPUTATION
+pandas==2.1.4          # Essential for handling and manipulating time series data (DataFrames)
+numpy==1.26.2           # Fundamental package for numerical operations and array handling
+
+# DEEP LEARNING FRAMEWORK (1D CNN-GRU Architecture)
+tensorflow==2.15.0      # Main deep learning library for building and training your models
+keras==2.15.0           # High-level API used to define the CNN and GRU layers
+
+# MACHINE LEARNING UTILITIES
+scikit-learn==1.3.2     # Used for data preprocessing (scaling/normalization) and evaluation metrics
+
+# VISUALIZATION
+matplotlib==3.8.2       # For generating all the plots and figures used in your paper
